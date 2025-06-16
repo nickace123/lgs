@@ -1,0 +1,17 @@
+<gamescreen>
+    <layout>
+        <button width="250" height="200"/>
+        <button_frame_offset>8</button_frame_offset>
+        <spacing x="100" y="50"/>
+        <start x="140" y="200"/>
+        <grid buttons_per_row="5" rows_per_page="3"/>
+        <page_no x="1425" y="1022" font="('Arial', 38, 'bold')" colour="white"/>
+        <game_name x="350" y="977" font="('Arial', 18, 'bold')" colour="white" width="40"/>
+    </layout>
+    <navigation>
+        <prev x="100" y="930" width="173" height="122"/>
+        <main x="879" y="930" width="173" height="122"/>
+        <next x="1647" y="930" width="173" height="122"/>
+    </navigation>
+</gamescreen>
+

@@ -1,0 +1,16 @@
+<screen name="main" bg="main.png">
+    <zone name="3do" image="tag_3do.png" x1="118" y1="274" x2="321" y2="437" target="3do_1" />
+    <zone name="atari2600" image="tag_atari2600.png" x1="419" y1="274" x2="622" y2="437" target="atari2600_1" />
+    <zone name="atari7800" image="tag_atari7800.png" x1="1298" y1="274" x2="1501" y2="437" target="atari7800_1" />
+    <zone name="dreamcast" image="tag_dreamcast.png" x1="1599" y1="274" x2="1802" y2="437" target="dreamcast_1" />
+    <zone name="mame-libretro" image="tag_mame.png" x1="118" y1="542" x2="321" y2="705" target="mame-libretro_1" />
+    <zone name="mastersystem" image="tag_mastersystem.png" x1="419" y1="542" x2="622" y2="705" target="mastersystem_1" />
+    <zone name="megadrive" image="tag_megadrive.png" x1="720" y1="542" x2="923" y2="705" target="megadrive_1" />
+    <zone name="nes" image="tag_nes.png" x1="1021" y1="542" x2="1224" y2="705" target="nes_1" />
+    <zone name="psx" image="tag_psx.png" x1="1298" y1="542" x2="1501" y2="705" target="psx_1" />
+    <zone name="saturn" image="tag_saturn.png" x1="1599" y1="542" x2="1802" y2="705" target="saturn_1" />
+    <zone name="sega32x" image="tag_sega32x.png" x1="419" y1="810" x2="622" y2="973" target="sega32x_1" />
+    <zone name="segacd" image="tag_segacd.png" x1="720" y1="810" x2="923" y2="973" target="segacd_1" />
+    <zone name="snes" image="tag_snes.png" x1="1021" y1="810" x2="1224" y2="973" target="snes_1" />
+    <zone name="zxspectrum" image="tag_zxspectrum.png" x1="1298" y1="810" x2="1501" y2="973" target="zxspectrum_1" />
+</screen>

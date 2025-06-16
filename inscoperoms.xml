@@ -1,0 +1,456 @@
+<inscoperoms>
+    <system name="3do">
+        <gamelist>/home/pi/RetroPie/roms/3do/gamelist.xml</gamelist>
+        <lightgunroms>
+			<rom name="Corpse Killer" file="Corpse Killer (1994)(Digital Pictures)(US)[!].cue" />
+			<rom name="Crime Patrol 2: Drug Wars" file="Crime Patrol 2 - Drug Wars (1994)(American Laser Games).cue" />
+			<rom name="Crime Patrol" file="Crime Patrol (1994)(American Laser Games)(US)[!].cue" />
+			<rom name="Demolition Man" file="Demolition Man (1994)(Virgin)(US)[!].cue" />
+			<rom name="The Last Bounty Hunter" file="Last Bounty Hunter, The (1994)(American Laser Games)(US)[!].cue" />
+			<rom name="Mad Dog McCree" file="Mad Dog McCree (1993)(American Laser Games)(US)[!].cue" />
+			<rom name="Mad Dog II: The Lost Gold" file="Mad Dog II - the Lost Gold (1994)(American Laser Games)(US)[!].cue" />
+			<rom name="Space Pirates" file="Space Pirates (1994)(American Laser Games)(US)[!].cue" />
+			<rom name="Who Shot Johnny Rock" file="Who Shot Johnny Rock (1994)(American Laser Games)(US)[!].cue" />
+        </lightgunroms>
+    </system>
+    <system name="atari2600">
+        <gamelist>/home/pi/RetroPie/roms/atari2600/gamelist.xml</gamelist>
+        <lightgunroms>
+			<rom name="Sentinel" file="Sentinel (USA).zip" />
+			<rom name="Shooting Arcade (unreleased)" file="Shooting Arcade (USA) (Proto).zip" />
+			<rom name="Shootin' Gallery" file="Shootin' Gallery (USA).zip" />
+        </lightgunroms>
+	</system>
+    <system name="atari7800">
+        <gamelist>/home/pi/RetroPie/roms/atari7800/gamelist.xml</gamelist>
+        <lightgunroms>
+			<rom name="Alien Brigade" file="Alien Brigade (USA).zip" />
+			<rom name="Barnyard Blaster" file="Barnyard Blaster (USA).zip" />
+			<rom name="Crossbow" file="Crossbow (USA).zip" />
+			<rom name="Meltdown" file="Meltdown (USA).zip" />
+			<rom name="Sentinel" file="Sentinel (Europe).zip" />
+        </lightgunroms>
+    </system>
+    <system name="dreamcast">
+        <gamelist>/home/pi/RetroPie/roms/dreamcast/gamelist.xml</gamelist>
+        <lightgunroms>
+			<rom name="Confidential Mission" file="Confidential Mission v1.004 (2001)(Sega)(US)(M5)[!].chd" />
+			<rom name="Death Crimson 2" file="Death Crimson 2 (USA).chd" />
+			<rom name="Death Crimson OX" file="Death Crimson OX v1.001 (2001)(Sammy)(US)[!].chd" />
+			<rom name="Demolition Racer: No Exit" file="Demolition Racer - No Exit v1.002 (2000)(Infogrames)(US)[!].chd" />
+			<rom name="The House of the Dead 2" file="House of the Dead 2, The v1.001 (1999)(Sega)(US)[!][13S].chd" />
+			<rom name="Virtua Cop 2" file="Virtua Cop 2 (USA).chd" />
+			<rom name="The House of the Dead III" file="The House of the Dead III (USA).chd" />
+			<rom name="The Lost World: Jurassic Park" file="The Lost World: Jurassic Park (USA).chd" />
+        </lightgunroms>
+    </system>
+    <system name="mame-libretro">
+        <gamelist>/home/pi/RetroPie/roms/mame-libretro/gamelist.xml</gamelist>
+        <lightgunroms>
+			<rom name="2 SPICY" file="2spicy.zip" />
+			<rom name="Aim For Cash" file="aimforca.zip" />
+			<rom name="Alien 3: The Gun" file="alien3.zip" />
+			<rom name="Aliens: Armageddon" file="aliensarm.zip" />
+			<rom name="Aliens: Extermination" file="aliensx.zip" />
+			<rom name="Angry Birds Boom!" file="angrybds.zip" />
+			<rom name="Area 51" file="area51.zip" />
+			<rom name="Area 51 / Maximum Force Duo" file="area51mx.zip" />
+			<rom name="Area 51: Site 4" file="a51site4.zip" />
+			<rom name="Balloon Gun" file="ballgun.zip" />
+			<rom name="Bang!" file="bang.zip" />
+			<rom name="Battle Shark" file="battlesh.zip" />
+			<rom name="Bazooka" file="bazooka.zip" />
+			<rom name="Beast Busters" file="bbusters.zip" />
+			<rom name="Beast Busters: Second Nightmare" file="bbust2.zip" />
+			<rom name="Behind... Enemy Lines" file="bel.zip" />
+			<rom name="Big Buck HD" file="bbhhd.zip" />
+			<rom name="Big Buck HD Wild" file="bbhhdw.zip" />
+			<rom name="Big Buck Hunter" file="bbh.zip" />
+			<rom name="Big Buck Hunter II: Sportsman's Paradise" file="bbh2.zip" />
+			<rom name="Big Buck Hunter Pro" file="bbhunter.zip" />
+			<rom name="Big Buck Hunter Pro Open Season" file="bbhopense.zip" />
+			<rom name="Big Buck Hunter Reloaded" file="bbhreload.zip" />
+			<rom name="Big Buck Hunter: Call Of The Wild" file="bbhcow.zip" />
+			<rom name="Big Buck Hunter: Shooter's Challenge" file="bbhshooter.zip" />
+			<rom name="Big Buck Safari" file="bbsafari.zip" />
+			<rom name="Big Buck World" file="bbworld.zip" />
+			<rom name="Born To Fight" file="born2fgt.zip" />
+			<rom name="Bronx" file="bronx.zip" />
+			<rom name="Bubble Trouble: Golly! Ghost! 2" file="bubbl2.zip" />
+			<rom name="Bullet Mark" file="bulletmk.zip" />
+			<rom name="CarnEvil" file="carnevil.zip" />
+			<rom name="Carnival King" file="carnival.zip" />
+			<rom name="Cheyenne" file="cheyenne.zip" />
+			<rom name="Chiller" file="chiller.zip" />
+			<rom name="Clay Pigeon" file="claypige.zip" />
+			<rom name="Claybuster" file="claybust.zip" />
+			<rom name="Combat / Catch-22" file="combat.zip" />
+			<rom name="Confidential Mission" file="confmiss.zip" />
+			<rom name="Cops" file="cops.zip" />
+			<rom name="Cosmoswat" file="cosmoswt.zip" />
+			<rom name="Crackshot" file="cracksh.zip" />
+			<rom name="Crazy Fight" file="crazyfgt.zip" />
+			<rom name="Crime Patrol" file="crimep.zip" />
+			<rom name="Crime Patrol 2: Drug Wars" file="crimep2.zip" />
+			<rom name="Crisis Zone" file="crisis.zip" />
+			<rom name="Crossbow" file="crossbow.zip" />
+			<rom name="Crypt Killer" file="cryptklr.zip" />
+			<rom name="Cycle Shooting" file="cyclesht.zip" />
+			<rom name="Dead Eye" file="deadeye.zip" />
+			<rom name="Deadstorm Pirates" file="deadsp.zip" />
+			<rom name="Deadstorm Pirates Special Edition" file="deadspse.zip" />
+			<rom name="Death Crimson OX" file="dcrimson.zip" />
+			<rom name="Deer Hunting USA" file="deerhunt.zip" />
+			<rom name="Desert Gun" file="desertgn.zip" />
+			<rom name="Desert Patrol" file="desertpt.zip" />
+			<rom name="Dragon Gun" file="dragngun.zip" />
+			<rom name="Dream Raiders" file="dreamrd.zip" />
+			<rom name="Duck Hunt" file="duckhunt.zip" />
+			<rom name="Elevator Action Death Parade" file="elevator.zip" />
+			<rom name="Evil Night / Hell Night" file="evillngt.zip" />
+			<rom name="Extermination" file="extrmatn.zip" />
+			<rom name="Extreme Hunting" file="exthunt.zip" />
+			<rom name="Extreme Hunting 2" file="exthunt2.zip" />
+			<rom name="Far Cry: Paradise Lost" file="farcryp.zip" />
+			<rom name="Fast Draw Showdown" file="fastdraw.zip" />
+			<rom name="Friction" file="friction.zip" />
+			<rom name="Gaia Attack 4" file="gaiaattk.zip" />
+			<rom name="Gallagher's Gallery" file="gallaglr.zip" />
+			<rom name="Ghost Hunter" file="ghosthnt.zip" />
+			<rom name="Ghost Squad" file="gundamex.zip" />
+			<rom name="Ghost Squad Evolution" file="gundamex.zip" />
+			<rom name="Ghoul Panic" file="ghoulpnc.zip" />
+			<rom name="Godzilla Kaiju Wars VR" file="godzkvr.zip" />
+			<rom name="Golgo 13" file="golgo13.zip" />
+			<rom name="Golgo 13 Kiseki No Dandou" file="golgo13k.zip" />
+			<rom name="Golly! Ghost!" file="gollygho.zip" />
+			<rom name="Great Guns" file="grtguns.zip" />
+			<rom name="Gun Champ" file="gunchamp.zip" />
+			<rom name="Gunblade NY" file="gunbldny.zip" />
+			<rom name="Gunbuster" file="gunbustr.zip" />
+			<rom name="Gunmania" file="gunmania.zip" />
+			<rom name="Gunslinger Stratos" file="gunsling.zip" />
+			<rom name="Gunslinger Stratos 2" file="gunslin2.zip" />
+			<rom name="Halo Fireteam Raven" file="haloftr.zip" />
+			<rom name="Hammer" file="hammer.zip" />
+			<rom name="Happy Hunter" file="haphunt.zip" />
+			<rom name="Hit 'n Miss" file="hitnmiss.zip" />
+			<rom name="Hogan's Alley" file="hogansal.zip" />
+			<rom name="Host Invaders" file="hostinv.zip" />
+			<rom name="House of the Dead: Scarlet Dawn" file="hotdsd.zip" />
+			<rom name="Invasion: The Abductors" file="invasion.zip" />
+			<rom name="Johnny Nero: Action Hero" file="johnnero.zip" />
+			<rom name="Judge Dredd" file="judgedrd.zip" />
+			<rom name="Jurassic Park" file="jpark.zip" />
+			<rom name="Jurassic Park Arcade" file="jparcade.zip" />
+			<rom name="Jurassic Park III" file="jpark3.zip" />
+			<rom name="Killer Shark" file="killshrk.zip" />
+			<rom name="L.A. Machineguns" file="lamachng.zip" />
+			<rom name="Laser Ghost" file="lasghost.zip" />
+			<rom name="Lethal Enforcers" file="lethal.zip" />
+			<rom name="Lethal Enforcers 3" file="lethal3.zip" />
+			<rom name="Lethal Enforcers II: Gunfighters" file="lethalen.zip" />
+			<rom name="Lethal Justice" file="lethjust.zip" />
+			<rom name="Let's Go Island: Lost on the Island of Tropics 3D" file="lgi.zip" />
+			<rom name="Let's Go Jungle! Special" file="lgjungsp.zip" />
+			<rom name="Let's Go Jungle!: Lost on the Island of Spice" file="lgj.zip" />
+			<rom name="Line Of Fire / Bakudan Yarou" file="linefire.zip" />
+			<rom name="Locked 'n Loaded" file="lockload.zip" />
+			<rom name="Lord Of Gun" file="lordgun.zip" />
+			<rom name="Lucky &amp; Wild" file="luckywld.zip" />
+			<rom name="Lupin the 3rd: The Shooting" file="lupin3.zip" />
+			<rom name="Mad Dog II: The Lost Gold" file="maddog2.zip" />
+			<rom name="Mad Dog McCree" file="maddog.zip" />
+			<rom name="Mallet Madness" file="malmad.zip" />
+			<rom name="Manic Panic Ghosts" file="manicpg.zip" />
+			<rom name="Marbella Vice" file="marbella.zip" />
+			<rom name="Maximum Force" file="maxforce.zip" />
+			<rom name="Mechanized Attack" file="mechatt.zip" />
+			<rom name="Mobile Suit Gundam Final Shooting" file="gundamfs.zip" />
+			<rom name="Mobile Suit Gundam: Spirits of Zeon ~Dual Stars of Carnage~" file="gundamsz.zip" />
+			<rom name="Mobile Suit Gundam: Spirits of Zeon ~Memory of Soldiers~" file="gundamsm.zip" />
+			<rom name="Monster Eye" file="monsteye.zip" />
+			<rom name="Monster Eye 2" file="monstey2.zip" />
+			<rom name="Music GunGun! 2" file="gun2.zip" />
+			<rom name="N.Y. Captor" file="nycaptor.zip" />
+			<rom name="Nerf Arcade" file="nerfarc.zip" />
+			<rom name="Ninja Assault" file="ninjaass.zip" />
+			<rom name="One Shot One Kill" file="1shot1k.zip" />
+			<rom name="Operation G.H.O.S.T." file="opghost.zip" />
+			<rom name="Operation Thunder Hurricane" file="opthunhu.zip" />
+			<rom name="Operation Thunderbolt" file="othunder.zip" />
+			<rom name="Operation Tiger" file="optiger.zip" />
+			<rom name="Operation Wolf" file="opwolf.zip" />
+			<rom name="Operation Wolf 3" file="opwolf3.zip" />
+			<rom name="Panic Museum / Haunted Museum" file="panmusu.zip" />
+			<rom name="Panic Museum 2 / Haunted Musiaum 2" file="panmusu2.zip" />
+			<rom name="Point Blank" file="ptblank.zip" />
+			<rom name="Point Blank 2" file="ptblank2.zip" />
+			<rom name="Point Blank 3" file="ptblank3.zip" />
+			<rom name="Point Blank X" file="pblankx.zip" />
+			<rom name="Police 911" file="police911.zip" />
+			<rom name="Police 911 2" file="police911_2.zip" />
+			<rom name="Police Trainer" file="policetr.zip" />
+			<rom name="Police Trainer 2" file="policet2.zip" />
+			<rom name="Pop Shot" file="popshot.zip" />
+			<rom name="P's Attack" file="psattack.zip" />
+			<rom name="Rabbids Hollywood" file="rabbidsh.zip" />
+			<rom name="Rail Chase" file="railchas.zip" />
+			<rom name="Rail Chase 2" file="railch2.zip" />
+			<rom name="Rambo" file="rambo.zip" />
+			<rom name="Ranger Mission" file="rangrmis.zip" />
+			<rom name="Rapid Fire" file="rapidfir.zip" />
+			<rom name="Razing Storm" file="razstorm.zip" />
+			<rom name="Revolution X" file="revx.zip" />
+			<rom name="Sea Devil" file="seadevil.zip" />
+			<rom name="Sega Clay Challenge" file="sega_clay.zip" />
+			<rom name="Sega Golden Gun" file="sega_ggun.zip" />
+			<rom name="Sharpshooter" file="sharpsht.zip" />
+			<rom name="Shh...! Welcome to Frightfearland" file="frightf.zip" />
+			<rom name="Shoot Away" file="shootawa.zip" />
+			<rom name="Shoot The Bear" file="shootbear.zip" />
+			<rom name="Shooting Gallery" file="shootgal.zip" />
+			<rom name="Shooting Master" file="shootmas.zip" />
+			<rom name="Shootout at Old Tucson" file="tucson.zip" />
+			<rom name="Silent Hill: The Arcade" file="sharcade.zip" />
+			<rom name="Silent Scope" file="sscope.zip" />
+			<rom name="Silent Scope 2" file="sscope2.zip" />
+			<rom name="Silent Scope EX" file="sscopex.zip" />
+			<rom name="Silent Scope: Bone-Eater" file="sscope2.zip" />
+			<rom name="Skeet Shot" file="skeetshot.zip" />
+			<rom name="Space Gun" file="spacegun.zip" />
+			<rom name="Space Invaders Frenzy" file="spaceinvf.zip" />
+			<rom name="Space Pirates" file="spacepir.zip" />
+			<rom name="Special Forces Elite Training" file="specforc.zip" />
+			<rom name="Sports Shooting USA" file="sportssu.zip" />
+			<rom name="Star Trek: Voyager The Arcade Game" file="sttvoyag.zip" />
+			<rom name="Steel Gunner" file="stlgunner.zip" />
+			<rom name="Steel Gunner 2" file="stlgunner2.zip" />
+			<rom name="Target Hits" file="targethts.zip" />
+			<rom name="Target: Terror" file="targettr.zip" />
+			<rom name="Teraburst" file="teraburs.zip" />
+			<rom name="Terminator 2: Judgment Day" file="t2judg.zip" />
+			<rom name="Terminator Salvation" file="terminsal.zip" />
+			<rom name="The House of the Dead" file="hotd.zip" />
+			<rom name="The House of the Dead 2" file="hotd2.zip" />
+			<rom name="The House of the Dead 4" file="hotd4.zip" />
+			<rom name="The House of the Dead 4 Special" file="hotd4sp.zip" />
+			<rom name="The House of the Dead III" file="hotd3.zip" />
+			<rom name="The Last Bounty Hunter" file="lastbnty.zip" />
+			<rom name="The Lost World: Jurassic Park" file="lostwrld.zip" />
+			<rom name="The Maze of the Kings" file="mazeofk.zip" />
+			<rom name="The Ocean Hunter" file="oceanhun.zip" />
+			<rom name="The Swarm" file="theswarm.zip" />
+			<rom name="Tickee Tickats" file="tickee.zip" />
+			<rom name="Time Crisis" file="timecris.zip" />
+			<rom name="Time Crisis 3" file="timecrs3.zip" />
+			<rom name="Time Crisis 4" file="timecrs4.zip" />
+			<rom name="Time Crisis 5" file="timecris5.zip" />
+			<rom name="Time Crisis II" file="timecrs2.zip" />
+			<rom name="Tomb Raider" file="tombraida.zip" />
+			<rom name="Total Vice" file="totalvic.zip" />
+			<rom name="Transformers: Human Alliance" file="transformer.zip" />
+			<rom name="Transformers: Shadow Rising" file="transformers2.zip" />
+			<rom name="Triple Hunt" file="triplehnt.zip" />
+			<rom name="Trophy Hunting: Bear &amp; Moose" file="trophyhnt.zip" />
+			<rom name="Turkey Hunting USA" file="turkeyhnt.zip" />
+			<rom name="Turkey Shoot" file="turkeysh.zip" />
+			<rom name="Tut's Tomb" file="tutstomb.zip" />
+			<rom name="Under Fire" file="underfir.zip" />
+			<rom name="Vampire Night" file="vampnight.zip" />
+			<rom name="Virtua Cop" file="vcop.zip" />
+			<rom name="Virtua Cop 2" file="vcop2.zip" />
+			<rom name="Virtua Cop 3" file="vcop3.zip" />
+			<rom name="Virtual Combat" file="vrtcombat.zip" />
+			<rom name="Vs. Duck Hunt" file="vsduckhn.zip" />
+			<rom name="Vs. Freedom Force" file="vsfreedom.zip" />
+			<rom name="Vs. Hogan's Alley" file="vshogan.zip" />
+			<rom name="Warzaid" file="warzaid.zip" />
+			<rom name="Who Dunit" file="whodunit.zip" />
+			<rom name="Who Shot Johnny Rock?" file="johnnyrk.zip" />
+			<rom name="Wild Gunman" file="wildgunm.zip" />
+			<rom name="Wild Pilot" file="wildpilot.zip" />
+			<rom name="Wing Shooting Championship" file="wing_shot.zip" />
+			<rom name="World Combat" file="worldcmb.zip" />
+			<rom name="Zero Point" file="zeropoint.zip" />
+			<rom name="Zero Point 2" file="zeropoint2.zip" />
+			<rom name="Zombie Raid" file="zombraid.zip" />
+			<rom name="Zorton Brothers" file="zortonbr.zip" />
+		
+        </lightgunroms>
+    </system>
+    <system name="mastersystem">
+        <gamelist>/home/pi/RetroPie/roms/mastersystem/gamelist.xml</gamelist>
+        <lightgunroms>
+			<rom name="Assault City" file="Assault City (Europe) (Light Phaser).zip" />
+			<rom name="Gangster Town" file="Gangster Town (USA).zip" />
+			<rom name="Laser Ghost" file="Laser Ghost (Europe).zip" />
+			<rom name="Marksman Shooting &amp; Trap Shooting &amp; Safari Hunt" file="Marksman Shooting &amp; Trap Shooting &amp; Safari Hunt (Europe).zip" />
+			<rom name="Missile Defense 3-D" file="Missile Defense 3-D (USA, Europe).zip" />
+			<rom name="Operation Wolf" file="Operation Wolf (Europe).zip" />
+			<rom name="Rambo III" file="Rambo III (USA, Europe).zip" />
+			<rom name="Rescue Mission" file="Rescue Mission (USA, Europe).zip" />
+			<rom name="Shooting Gallery" file="Shooting Gallery (USA, Europe).zip" />
+			<rom name="Space Gun" file="Space Gun (Europe).zip" />
+			<rom name="Wanted" file="Wanted (USA, Europe).zip" />
+        </lightgunroms>
+    </system>
+    <system name="megadrive">
+        <gamelist>/home/pi/RetroPie/roms/megadrive/gamelist.xml</gamelist>
+        <lightgunroms>
+			<rom name="Body Count" file="Body Count (Brazil).zip" />
+			<rom name="Lethal Enforcers" file="Lethal Enforcers (USA).zip" />
+			<rom name="Lethal Enforcers II" file="Lethal Enforcers II - Gun Fighters (USA).zip" />
+			<rom name="Menacer 6-game Cartridge" file="Menacer 6-Game Cartridge (USA, Europe).zip" />
+			<rom name="Terminator 2: The Arcade Game" file="Terminator 2 - The Arcade Game.zip" />
+        </lightgunroms>
+    </system>
+    <system name="nes">
+        <gamelist>/home/pi/RetroPie/roms/nes/gamelist.xml</gamelist>
+        <lightgunroms>
+			<rom name="Baby Boomer" file="Baby Boomer (USA) (Unl).zip" />
+			<rom name="Barker Bill's Trick Shooting" file="Barker Bill's Trick Shooting (USA).zip" />
+			<rom name="Chiller" file="Chiller (USA).zip" />
+			<rom name="Cobra Mission" file="Cobra Mission (USA).zip" />
+			<rom name="Crime Busters" file="Crime Busters (Unknown) (Unl).zip" />
+			<rom name="Duck Hunt" file="Duck Hunt (World).zip" />
+			<rom name="Freedom Force" file="Freedom Force (USA).zip" />
+			<rom name="Gotcha! The Sport!" file="Gotcha! - The Sport! (USA).zip" />
+			<rom name="Gumshoe" file="Gumshoe (USA, Europe).zip" />
+			<rom name="Hit Marmot" file="Hit Marmot (USA).zip" />
+			<rom name="Hogan's Alley" file="Hogan's Alley (World).zip" />
+			<rom name="Laser Invasion" file="Laser Invasion (USA).zip" />
+			<rom name="Mechanized Attack" file="Mechanized Attack (USA).zip" />
+			<rom name="Operation Wolf" file="Operation Wolf (Europe).zip" />
+			<rom name="Shooting Range" file="Shooting Range (USA).zip" />
+			<rom name="Space Shadow" file="Space Shadow (USA).zip" />
+			<rom name="Strike Wolf" file="Strike Wolf (USA).zip" />
+			<rom name="Supergun 3-in-1" file="Supergun 3-in-1 (USA).zip" />
+			<rom name="The Lone Ranger" file="Lone Ranger, The (USA).zip" />
+			<rom name="To The Earth" file="To the Earth (USA).zip" />
+			<rom name="Wild Gunman" file="Wild Gunman (World) (Rev A).zip" />
+        </lightgunroms>
+    </system>
+    <system name="psx">
+        <gamelist>/home/pi/RetroPie/roms/psx/gamelist.xml</gamelist>
+        <lightgunroms>
+			<rom name="Area 51" file="Area 51 (USA) (Rev 1).chd" />
+			<rom name="Cellophanes" file="Cellophanes (USA).chd" />
+			<rom name="Crypt Killer" file="Crypt Killer (USA).chd" />
+			<rom name="Die Hard 2: Die Harder" file="Die Hard 2 - Die Harder (USA).chd" />
+			<rom name="Die Hard Trilogy" file="Die Hard Trilogy (USA) (Rev 1).chd" />
+			<rom name="Die Hard Trilogy 2: Viva Las Vegas" file="Die Hard Trilogy 2 - Viva Las Vegas (USA).chd" />
+			<rom name="Elemental Gearbolt" file="Elemental Gearbolt (USA).chd" />
+			<rom name="Extreme Ghostbusters: The Ultimate Invasion" file="Extreme Ghostbusters - The Ultimate Invasion (USA).chd" />
+			<rom name="Ghoul Panic" file="Ghoul Panic (USA).chd" />
+			<rom name="Ground Combat Sequences" file="Ground Combat Sequences (USA).chd" />
+			<rom name="Gun Bare! The Game Paradise 2" file="Gun Bare! The Game Paradise 2 (USA).chd" />
+			<rom name="Gunfighter: The Legend of Jesse James" file="Gunfighter - The Legend of Jesse James (USA).chd" />
+			<rom name="Guntu Western Front June, 1944" file="Guntu Western Front June 1944 (USA).chd" />
+			<rom name="Judge Dredd" file="Judge Dredd (USA).chd" />
+			<rom name="Lethal Enforcers" file="Lethal Enforcers (USA).chd" />
+			<rom name="Lethal Enforcers I &amp; II" file="Lethal Enforcers I &amp; II (USA).chd" />
+			<rom name="Lethal Enforcers II: Gun Fighters" file="Lethal Enforcers 2 - Gun Fighters (USA).chd" />
+			<rom name="Maximum Force" file="Maximum Force (USA).chd" />
+			<rom name="Mighty Hits" file="Mighty Hits (USA).chd" />
+			<rom name="Mighty Hits Special" file="Mighty Hits Special (USA).chd" />
+			<rom name="Moorhen 3 – ...Chicken Chase'" file="Moorhen 3 - Chicken Chase (USA).chd" />
+			<rom name="Moorhuhn 2 – Die Jagd Geht Weiter'" file="Moorhuhn 2 - Die Jagd Geht Weiter (USA).chd" />
+			<rom name="Moorhuhn X" file="Moorhuhn X (USA).chd" />
+			<rom name="Point Blank" file="Point Blank (USA).chd" />
+			<rom name="Point Blank 2" file="Point Blank 2 (USA).chd" />
+			<rom name="Point Blank 3" file="Point Blank 3 (USA).chd" />
+			<rom name="Project Horned Owl" file="Project - Horned Owl (USA).chd" />
+			<rom name="Puffy's P.S. I Love You" file="Puffys PS I Love You (USA).chd" />
+			<rom name="Rescue Shot" file="Rescue Shot (USA).chd" />
+			<rom name="Resident Evil Survivor" file="Resident Evil - Survivor (USA).chd" />
+			<rom name="Star Wars: Rebel Assault II (Part 1)" file="Star Wars - Rebel Assault II - The Hidden Empire (USA) (Disc 1).chd" />
+			<rom name="Star Wars: Rebel Assault II (Part 2)" file="Star Wars - Rebel Assault II - The Hidden Empire (USA) (Disc 2).chd" />
+			<rom name="The Gun Shooting" file="The Gun Shooting (USA).chd" />
+			<rom name="The Gun Shooting 2" file="The Gun Shooting 2 (USA).chd" />
+			<rom name="Time Crisis" file="Time Crisis (USA).chd" />
+			<rom name="Time Crisis: Project Titan" file="Time Crisis - Project Titan (USA).chd" />
+        </lightgunroms>
+    </system>
+    <system name="saturn">
+        <gamelist>/home/pi/RetroPie/roms/saturn/gamelist.xml</gamelist>
+        <lightgunroms>
+			<rom name="Area 51" file="Area 51 (USA).chd" />
+			<rom name="Chaos Control" file="Chaos Control (Europe) (En,Fr,De).chd" />
+			<rom name="Crypt Killer" file="Crypt Killer (USA).chd" />
+			<rom name="Death Crimson" file="Death Crimson (Japan).chd" />
+			<rom name="Die Hard Trilogy" file="Die Hard Trilogy (USA).chd" />
+			<rom name="Die Hard 2: Die Harder" file="Die Hard 2: Die Harder (USA).chd" />
+			<rom name="The House of the Dead" file="House of the Dead, The (Europe).chd" />
+			<rom name="Mighty Hits" file="Mighty Hits (Europe).chd" />
+			<rom name="Maximum Force" file="Maximum Force (USA).chd" />
+			<rom name="Mechanical Violator Hakaider - Last Judgement" file="Mechanical Violator Hakaider - Last Judgement (Japan).chd" />
+			<rom name="Scud the Disposable Assassin" file="Scud the Disposable Assassin (USA).chd" />
+			<rom name="Virtua Cop" file="Virtua Cop (USA) (6S).chd" />
+			<rom name="Virtua Cop 2" file="Virtua Cop 2 (USA).chd" />
+        </lightgunroms>
+    </system>
+    <system name="sega32x">
+        <gamelist>/home/pi/RetroPie/roms/sega32x/gamelist.xml</gamelist>
+        <lightgunroms>
+			<rom name="Corpse Killer" file="Corpse Killer (USA).zip" />
+        </lightgunroms>
+    </system>
+    <system name="segacd">
+        <gamelist>/home/pi/RetroPie/roms/segacd/gamelist.xml</gamelist>
+        <lightgunroms>
+			<rom name="Corpse Killer" file="Corpse Killer (U).chd" />
+			<rom name="Crime Patrol" file="Crime Patrol (U).chd" />
+			<rom name="Lethal enforcers" file="Lethal Enforcers (U).chd" />
+			<rom name="Lethal Enforcers II" file="Lethal Enforcers II - Gun Fighters (U).chd" />
+			<rom name="Mad Dog McCree" file="Mad Dog McCree (U).chd" />
+			<rom name="Mad Dog 2 - The Lost Gold" file="Mad Dog II - The Lost Gold (U.chd" />
+			<rom name="Snatcher" file="Snatcher (U).chd" />
+			<rom name="Who Shot Johnny Rock" file="Who Shot Johnny Rock (U).chd" />
+        </lightgunroms>
+    </system>
+    <system name="snes">
+        <gamelist>/home/pi/RetroPie/roms/snes/gamelist.xml</gamelist>
+        <lightgunroms>
+			<rom name="Battle Clash" file="Battle Clash (USA).zip" />
+			<rom name="Bazooka Blitzkrieg" file="Bazooka Blitzkrieg (USA).zip" />
+			<rom name="Battle Clash 2" file="Battle Clash 2 (USA).zip" />
+			<rom name="Lamborghini American Challenge" file="Lamborghini American Challenge (USA).zip" />
+			<rom name="Lethal Enforcers" file="Lethal Enforcers (USA).zip" />
+			<rom name="Multi-purpose Arcade Combat Simulator" file="Multi-purpose Arcade Combat Simulator (USA).zip" />
+			<rom name="Metal Combat: Falcon's Revenge" file="Metal Combat - Falcon's Revenge (USA).zip" />
+			<rom name="Operation Thunderbolt" file="Operation Thunderbolt (USA).zip" />
+			<rom name="Super Scope 6" file="Super Scope 6 (USA).zip" />
+			<rom name="Terminator 2: The Arcade Game" file="Terminator 2-The Arcade Game.zip" />
+			<rom name="Tin Star" file="Tin Star (USA).zip" />
+			<rom name="X-Zone" file="X Zone (Europe).zip" />
+			<rom name="Yoshi's Safari" file="Yoshi's Safari (USA).zip" />
+        </lightgunroms>
+    </system>
+    <system name="zxspectrum">
+        <gamelist>/home/pi/RetroPie/roms/zxspectrum/gamelist.xml</gamelist>
+        <lightgunroms>
+			<rom name="Bullseye" file="Bullseye.z80" />
+			<rom name="Missile Ground Zero" file="Missile Ground Zero.z80" />
+			<rom name="Operation Wolf" file="Operation Wolf.z80" />
+			<rom name="Robot Attack" file="Robot Attack.z80" />
+			<rom name="Rookie" file="Rookie.z80" />
+			<rom name="Solar Invasion" file="Solar Invasion.z80" />
+			<rom name="Target Plus" file="Target Plus.z80" />
+			<rom name="Industria 14 – Mastertronic Ltd" file="Industria 14 – Mastertronic Ltd.z80" />
+			<rom name="Living Daylights" file="Living Daylights - The Computer Game, The [lightgun].z80" />
+			<rom name="Lord Bromley's Estate" file="Lord Bromley's Estate.z80" />
+			<rom name="Make My Day" file="Make My Day.z80" />
+			<rom name="Q's Armoury" file="Q's Armoury.z80" />
+			<rom name="American Turbo King" file="American Turbo King (48K-128K).z80" />
+			<rom name="Cheetah Defender" file="Cheetah Defender.z80" />
+			<rom name="Advanced Pinball Simulator" file="Advanced Pinball Simulator.z80" />
+			<rom name="Billy The Kid" file="Billy the Kid.z80" />
+			<rom name="Bronx Street Cop" file="Bronx Street Cop.z80" />
+			<rom name="F-16 Fighting Falcon" file="F-16 Fighting Falcon (48K-128K).z80" />
+			<rom name="Jungle Warfare" file="Jungle Warfare.z80" />
+			<rom name="Supercar Trans-am" file="Superbike Trans-Am (48K-128K).z80" />
+			<rom name="Guillermo Tell" file="Guillermo Tell.z80" />
+        </lightgunroms>
+    </system>
+</inscoperoms>
