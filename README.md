@@ -1,3 +1,13 @@
+A GUN/MOUSE Driven Menu for Retropie using existing gamelist.xml
+
+a tkinter/python app to run on linux (in a xorg/x shell)
+
+There is a settings.xml with a selected theme in the root folder and the themes are in the themes folder, ai made one for me the defualt theme.
+
+There is an inscoperoms.xml (which contains all known lightgun rom names.. so it will filter out anything not lightgun related in your gamelist.xml.  
+You may not agree with my list and wish to add things.. please go for it.
+    
+  
   INSTALLATION - On Existing Retropie set up
 ------------------------------------------------------
 
